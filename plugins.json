@@ -3,7 +3,7 @@
   "name": "awesome-ai-plugins",
   "version": "1.0.0",
   "last_updated": "2026-10-21",
-  "total": 962,
+  "total": 963,
   "platforms": [
     "codex",
     "grok",
@@ -12741,6 +12741,20 @@
       "ecosystems": [
         "opencode"
       ]
+    },
+    {
+      "name": "LLMSlim",
+      "url": "https://github.com/Thanatos9404/llmslim",
+      "owner": "Thanatos9404",
+      "repo": "llmslim",
+      "description": "MCP server: long-term memory for Claude Code, Codex and other MCP clients with no LLM in the loop, storing messages word for word in local SQLite and recalling the ones that answer a question within a token budget; also packaged as a Claude Code plugin and a Codex plugin",
+      "category": "Development & Workflow",
+      "source": "awesome-ai-plugins",
+      "platform": "codex",
+      "ecosystems": [
+        "codex"
+      ],
+      "install_url": "https://raw.githubusercontent.com/Thanatos9404/llmslim/HEAD/plugins/llmslim/.codex-plugin/plugin.json"
     }
   ]
 }

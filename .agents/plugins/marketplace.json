@@ -13690,6 +13690,21 @@
       "repo": "RTL_OpenCode",
       "url": "https://github.com/programmer-1998/RTL_OpenCode",
       "installation_url": "https://github.com/programmer-1998/RTL_OpenCode#readme"
+    },
+    {
+      "name": "LLMSlim",
+      "displayName": "LLMSlim",
+      "description": "MCP server: long-term memory for Claude Code, Codex and other MCP clients with no LLM in the loop, storing messages word for word in local SQLite and recalling the ones that answer a question within a token budget; also packaged as a Claude Code plugin and a Codex plugin",
+      "category": "Development & Workflow",
+      "source": "awesome-ai-plugins",
+      "platform": "codex",
+      "ecosystems": [
+        "codex"
+      ],
+      "owner": "Thanatos9404",
+      "repo": "llmslim",
+      "url": "https://github.com/Thanatos9404/llmslim",
+      "install_url": "https://raw.githubusercontent.com/Thanatos9404/llmslim/HEAD/plugins/llmslim/.codex-plugin/plugin.json"
     }
   ]
 }
